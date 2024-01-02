@@ -1,7 +1,7 @@
 <?php
 
 $owner = 'mohinzamer';
-$repo = 'ecommerce';
+$repo = 'ecommerces';
 $committer = 'mohin.m@technotackle.com';
 $token = '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';
 
